@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #installing SSM agent on ubuntu server...
-SERVICE='amazon-ssm-agent';
+SERVICE='jenkins';
 
 if ps ax | grep -v grep | grep $SERVICE > /dev/null
 then
