@@ -1,6 +1,6 @@
 pipeline {
     agent { 
-        label 'my-defined-label' 
+        label 'ACC-PROD-29287-AZCLOUDSERVICES' 
     }
     stages {
         stage('Hello') {
