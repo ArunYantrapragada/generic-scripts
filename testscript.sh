@@ -7,5 +7,4 @@ rpm -qa | grep 'ssh'
 echo "adding one more command"
 ls -la /datadrive/
 
-
 exit 0
